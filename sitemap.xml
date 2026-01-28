@@ -5,7 +5,7 @@
 <loc>https://duckintheloop.dev/</loc>
 </url>
 <url>
-<loc>https://duckintheloop.dev/about.html</loc>
+<loc>https://duckintheloop.dev/about/</loc>
 <lastmod>2026-01-28T11:04:45-07:00</lastmod>
 <image:image>
 <image:loc>https://duckintheloop.dev/media/posts/2/duck-in-the-loop-2.png</image:loc>
@@ -13,11 +13,11 @@
 </image:image>
 </url>
 <url>
-<loc>https://duckintheloop.dev/posting-rules.html</loc>
+<loc>https://duckintheloop.dev/posting-rules/</loc>
 <lastmod>2026-01-28T14:50:49-07:00</lastmod>
 </url>
 <url>
-<loc>https://duckintheloop.dev/why-i-put-a-duck-in-the-loop.html</loc>
+<loc>https://duckintheloop.dev/why-i-put-a-duck-in-the-loop/</loc>
 <lastmod>2026-01-28T14:53:38-07:00</lastmod>
 </url>
 </urlset>

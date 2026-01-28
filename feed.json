@@ -12,7 +12,7 @@
         {
             "id": "https://duckintheloop.dev/why-i-put-a-duck-in-the-loop.html",
             "url": "https://duckintheloop.dev/why-i-put-a-duck-in-the-loop.html",
-            "title": "Why I Put a Duck in the Loop",
+            "title": "Why I Put a Duck in the Loop 🦆",
             "summary": "I’m starting this as a working log. I’m a software engineer with 30 years experience learning how to use AI as a planning and coding companion. I do not envision AI as a replacement, not as an authority, and not as a shortcut to understanding.",
             "content_html": "<p data-start=\"457\" data-end=\"492\">I’m starting this as a working log.</p>\n<p data-start=\"494\" data-end=\"727\">I’m a software engineer with 30 years experience learning how to use AI as a planning and coding companion. I do not envision AI as a replacement, not as an authority, and not as a shortcut to understanding. Just as another thing in the loop while I think, design, debug, and occasionally get stuck.</p>\n<p data-start=\"729\" data-end=\"785\">The metaphor I keep coming back to is the <em data-start=\"771\" data-end=\"784\">rubber duck</em>.</p>\n<p data-start=\"787\" data-end=\"1037\">Developers have long used rubber duck debugging as a way to externalize thinking: you explain the problem out loud, step by step, and somewhere along the way the bug reveals itself. The duck doesn’t solve anything. It just forces clarity.</p>\n<p data-start=\"1039\" data-end=\"1094\">Programming with the assistance of AI feels like a strange evolution of that idea.</p>\n<p data-start=\"1096\" data-end=\"1254\">Sometimes it behaves like a very patient duck.<br data-start=\"1142\" data-end=\"1145\">Sometimes it behaves like a confident one that’s very wrong.<br data-start=\"1200\" data-end=\"1203\">Sometimes it introduces entirely new failure modes.</p>\n<p data-start=\"1256\" data-end=\"1439\">What’s interesting to me isn’t whether the AI is “right,” but how it changes the <em data-start=\"1337\" data-end=\"1359\">shape of my thinking</em> when it’s present. What I explain. What I skip. What I trust. What I shouldn’t.</p>\n<p data-start=\"1441\" data-end=\"1494\">This site is where I plan to jot down some musings as I experiment and tailor the tools that are out there to a workflow that's actually helpful and productive.</p>\n<p data-start=\"1496\" data-end=\"1566\">I'm not writing tutorials, or best practices, or heralding lofty opinions.</p>\n<p data-start=\"1568\" data-end=\"1710\">Just notes about things I tried, things that half-worked, things that didn’t, and ideas that will probably change over time.</p>\n<p data-start=\"1712\" data-end=\"1802\">If anything here turns out to be useful to someone else, great.<br data-start=\"1775\" data-end=\"1778\">If not, that’s fine too.</p>\n<p data-start=\"1804\" data-end=\"1879\">For now, I’m just talking to the duck and paying attention to what happens. 🦆</p>",
             "author": {
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2026-01-28T14:40:09-07:00",
-            "date_modified": "2026-01-28T14:40:09-07:00"
+            "date_modified": "2026-01-28T14:48:19-07:00"
         }
     ]
 }

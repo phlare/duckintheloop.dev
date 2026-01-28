@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Duck in the Loop",
+    "description": "",
+    "home_page_url": "https://duckintheloop.dev",
+    "feed_url": "https://duckintheloop.dev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Phlare"
+    },
+    "items": [
+        {
+            "id": "https://duckintheloop.dev/hello-duck.html",
+            "url": "https://duckintheloop.dev/hello-duck.html",
+            "title": "Hello, Duck",
+            "summary": "quack quack!",
+            "content_html": "<p>quack quack!</p>",
+            "author": {
+                "name": "Phlare"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-28T10:20:00-07:00",
+            "date_modified": "2026-01-28T10:20:00-07:00"
+        }
+    ]
+}

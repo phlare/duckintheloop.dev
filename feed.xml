@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Duck in the Loop</title>
+    <link href="https://duckintheloop.dev/feed.xml" rel="self" />
+    <link href="https://duckintheloop.dev" />
+    <updated>2026-01-28T10:20:00-07:00</updated>
+    <author>
+        <name>Phlare</name>
+    </author>
+    <id>https://duckintheloop.dev</id>
+
+    <entry>
+        <title>Hello, Duck</title>
+        <author>
+            <name>Phlare</name>
+        </author>
+        <link href="https://duckintheloop.dev/hello-duck.html"/>
+        <id>https://duckintheloop.dev/hello-duck.html</id>
+
+        <updated>2026-01-28T10:20:00-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    quack quack!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>quack quack!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

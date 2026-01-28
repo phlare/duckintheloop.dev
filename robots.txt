@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://duckintheloop.dev/sitemap.xml
